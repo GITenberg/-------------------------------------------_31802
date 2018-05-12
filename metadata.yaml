@@ -17,6 +17,8 @@ covers:
 - cover_type: generated
   image_path: cover.png
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/31802#-------------------------------------------
 gutenberg_issued: '2010-03-28'
 gutenberg_type: Text
 identifiers:

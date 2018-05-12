@@ -1,0 +1,32 @@
+_repo: '-------------------------------------------_31802'
+_version: 0.1.0
+alternative_title: New Testament. Greek
+contributor:
+  translator:
+    agent_name: Palles, Alexandros
+    aliases:
+    - Pallis, Alexander
+    - Arvanites, Lekas
+    - Πάλλης, Αλέξανδρος
+    - Αρβανίτης, Λέκας
+    birthdate: 1851
+    deathdate: 1935
+    gutenberg_agent_id: '35234'
+    url: http://www.gutenberg.org/2009/agents/35234
+covers:
+- cover_type: generated
+  image_path: cover.png
+description: ''
+gutenberg_issued: '2010-03-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '31802'
+language: el
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'BS'
+- !lcsh 'Bible. New Testament'
+title: 'Η Νέα Διαθήκη : κατά το Βατικανό Χειρόγραφο'
+url: http://www.gutenberg.org/ebooks/31802
